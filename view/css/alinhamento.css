@@ -1,0 +1,21 @@
+/* DEFAULTS - ALIGNMENT */
+
+.td-right { text-align: right; }
+
+.td-left { text-align: left; }
+
+.td-center	{ text-align: center; }
+
+.td-top	{ vertical-align: top; }
+
+.td-middle	{ vertical-align: middle; }
+
+.td-bottom	{ vertical-align: bottom; }
+
+.center-align	{ text-align: center; }
+
+.center-div	{ margin-left: auto; margin-right: auto; }
+
+.right-div	{ margin-left: auto; margin-right: 0; }
+
+.left-div	{ margin-left: 0; margin-right: auto; }
