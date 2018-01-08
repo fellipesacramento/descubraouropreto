@@ -1,3 +1,4 @@
 eclipse.preferences.version=1
-phpVersion=php7.1
-use_asp_tags_as_php=false
+include_path=0;/descubraouropreto
+phpVersion=php5.6
+useShortTags=true
